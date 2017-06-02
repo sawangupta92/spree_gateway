@@ -99,3 +99,4 @@ describe "Stripe checkout" do
     expect(page).to have_css('#card_expiry.error')
   end
 end
+
